@@ -13,6 +13,7 @@
 		3DF0F41426931E4F0002AEF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DF0F41226931E4F0002AEF7 /* Main.storyboard */; };
 		3DF0F41626931E510002AEF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DF0F41526931E510002AEF7 /* Assets.xcassets */; };
 		3DF0F41926931E510002AEF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DF0F41726931E510002AEF7 /* LaunchScreen.storyboard */; };
+		630D053A269333B700197DED /* UserInterfaceState.xcuserstate in Resources */ = {isa = PBXBuildFile; fileRef = 630D0539269333B700197DED /* UserInterfaceState.xcuserstate */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3DF0F41526931E510002AEF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DF0F41826931E510002AEF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3DF0F41A26931E510002AEF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		630D0539269333B700197DED /* UserInterfaceState.xcuserstate */ = {isa = PBXFileReference; lastKnownFileType = file; name = UserInterfaceState.xcuserstate; path = TeamWork46.xcodeproj/project.xcworkspace/xcuserdata/macuser.xcuserdatad/UserInterfaceState.xcuserstate; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3DF0F40C26931E4F0002AEF7 /* AppDelegate.swift */,
 				3DF0F40E26931E4F0002AEF7 /* SceneDelegate.swift */,
 				3DF0F41026931E4F0002AEF7 /* ViewController.swift */,
+				630D0539269333B700197DED /* UserInterfaceState.xcuserstate */,
 				3DF0F41226931E4F0002AEF7 /* Main.storyboard */,
 				3DF0F41526931E510002AEF7 /* Assets.xcassets */,
 				3DF0F41726931E510002AEF7 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				630D053A269333B700197DED /* UserInterfaceState.xcuserstate in Resources */,
 				3DF0F41926931E510002AEF7 /* LaunchScreen.storyboard in Resources */,
 				3DF0F41626931E510002AEF7 /* Assets.xcassets in Resources */,
 				3DF0F41426931E4F0002AEF7 /* Main.storyboard in Resources */,
