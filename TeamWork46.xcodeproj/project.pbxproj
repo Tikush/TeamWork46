@@ -14,7 +14,7 @@
 		3DF0F41626931E510002AEF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DF0F41526931E510002AEF7 /* Assets.xcassets */; };
 		3DF0F41926931E510002AEF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DF0F41726931E510002AEF7 /* LaunchScreen.storyboard */; };
 		FA003429269323A4005B1902 /* DetailPageViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA003428269323A4005B1902 /* DetailPageViewController.storyboard */; };
-		FA00342B269323AB005B1902 /* DetailPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA00342A269323AB005B1902 /* DetailPageViewController.swift */; };
+		FAA47F732693300B0062466D /* DetailPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA47F722693300B0062466D /* DetailPageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		3DF0F41826931E510002AEF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3DF0F41A26931E510002AEF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA003428269323A4005B1902 /* DetailPageViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = DetailPageViewController.storyboard; sourceTree = "<group>"; };
-		FA00342A269323AB005B1902 /* DetailPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPageViewController.swift; sourceTree = "<group>"; };
+		FAA47F722693300B0062466D /* DetailPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				FA003428269323A4005B1902 /* DetailPageViewController.storyboard */,
-				FA00342A269323AB005B1902 /* DetailPageViewController.swift */,
+				FAA47F722693300B0062466D /* DetailPageViewController.swift */,
 			);
 			path = DetailPage;
 			sourceTree = "<group>";
@@ -152,7 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA00342B269323AB005B1902 /* DetailPageViewController.swift in Sources */,
+				FAA47F732693300B0062466D /* DetailPageViewController.swift in Sources */,
 				3DF0F41126931E4F0002AEF7 /* ViewController.swift in Sources */,
 				3DF0F40D26931E4F0002AEF7 /* AppDelegate.swift in Sources */,
 				3DF0F40F26931E4F0002AEF7 /* SceneDelegate.swift in Sources */,
